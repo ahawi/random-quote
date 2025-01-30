@@ -1,0 +1,80 @@
+body {
+  background: #f4f4f4;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+
+button {
+  background: #315482;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  transition-duration: 0.2s;
+  font-family: inherit;
+}
+
+button:hover {
+  background-color: #677d99;
+}
+
+.quote {
+  margin-bottom: 10px;
+}
+
+.author {
+  font-size: 0.8em;
+  color: #555;
+  font-style: italic;
+}
+
+.item {
+  font-size: 1.5em;
+}
+
+.saved-quotes {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.saved-quote {
+  display: flex;
+  align-items: center;
+}
+
+
+.saved-quote:not(:last-child) {
+  border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.delete-button {
+  font-size: 0.875em;
+  padding-inline: 10px;
+  margin-left: 15px;
+  background-color: #a45555;
+}
+
+.delete-button:hover {
+  background-color: #d73f3f;
+}
+
+.warning {
+  text-align: center;
+}
