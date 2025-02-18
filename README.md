@@ -12,7 +12,7 @@
 
 [ahawi.github.io/random-quote/](ahawi.github.io/random-quote/)
 
-## Пример работы:
+## Пример работы
 
 ![image](https://github.com/user-attachments/assets/2faaafae-afa7-43e0-8755-4b6ad3c89343)
 
