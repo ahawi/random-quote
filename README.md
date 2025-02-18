@@ -10,7 +10,7 @@
 
 ## Github pages
 
-https://ahawi.github.io/random-quote/
+[ahawi.github.io/random-quote/](ahawi.github.io/random-quote/)
 
 ## Пример работы:
 
